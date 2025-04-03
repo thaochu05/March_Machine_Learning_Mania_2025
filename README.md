@@ -63,8 +63,7 @@ It is structured into five major sections:
 
 Submissions are evaluated using the **Brier score**, which measures the accuracy of predicted probabilities — the lower, the better.
 
-🎯 Our best submission achieved a **Brier score of 0.126** on the men's bracket,  
-beating the public benchmark with strong feature engineering and model design.
+🎯 Our best submission achieved a **Brier score of 0.126** on the men's bracket, beating the public benchmark with strong feature engineering and model design.
 
 ---
 
